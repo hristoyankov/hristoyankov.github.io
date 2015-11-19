@@ -33,10 +33,9 @@ blockquote {
   font-style: italic;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 400px;
   margin: 15px auto;
-  border-width: 4px;
-  border-color: inherit;
+  border-width: 2px;
   border-radius: 3px;
 }
 
@@ -317,7 +316,7 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 768px) {
   header.header-page .page-heading h1 {
-    font-size: 80px;
+    font-size: 60px;
   }
 }
 
