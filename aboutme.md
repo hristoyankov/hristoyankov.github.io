@@ -1,6 +1,6 @@
 ---
 layout: page-avatar
-title: About me
+title: (source me)
 subtitle: Enough about you, let's talk about me
 ---
 
@@ -10,5 +10,5 @@ Driven by curiosity I've switched several jobs covering different technological 
 
 Long story short, I'm more generalist than specialist. Ready for adventures and constantly hungry for knowledge! 
 
-That's all for now but I'll update the page shortly. May the force be with you!
+That's all for now but I'll do my best to keep the page up-to-date. *May the force be with you*!
 
