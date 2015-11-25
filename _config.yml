@@ -60,7 +60,7 @@ url-pretty: "HristoYankov.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "HristoYankov.com"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-70692205-1"
