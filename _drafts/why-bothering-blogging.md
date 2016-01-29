@@ -5,7 +5,7 @@ title: why bothering blogging
 
 I've wanted to start a blog for quite some time. I've even had several attempts prior this one and considering writing a second sentence it's going way better than the last time!
 
-Having zero experience in this area I had absolutely no idea where to start. Should I start writing about some technology I'm currently curious about or should I review the last book I read?! But none of this made sense to me... *"Who's that guy Hristo Yankov? Bulgaria? And why the hell is he talking about all those things he barely understands?"* ... Well my friend I'll that sounds like a nice title for the first post:
+Having zero experience in this area I had absolutely no idea where to start. Should I start writing about some technology I'm currently curious about or should I review the last book I read?! But none of this made sense to me... *"Who's that guy Hristo Yankov? Bulgaria? And why the hell is he talking about all those things he barely understands?"* ... Well my friend that sounds like a nice title for the first post:
 
 
 Why bothering blogging?
@@ -28,7 +28,7 @@ Writing software in excange for money costs a lot of my time and I rarely have t
 II. Self improvement
 --------------------
 
-English is not the native language here in Bulgaria and having and English blog is great opportunity to improve my vocabulary and writing skills. 
+English is not the native language here in Bulgaria and having an English blog is great opportunity to improve my vocabulary and writing skills. 
 
 III. Missing CS foundations
 ---------------------------
