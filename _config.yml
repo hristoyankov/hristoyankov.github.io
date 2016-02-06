@@ -70,7 +70,7 @@ google_analytics: "UA-70692205-1"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Sofia"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 5
 
