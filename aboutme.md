@@ -1,7 +1,8 @@
 ---
-layout: page-avatar
+layout: page
 title: (source me)
 subtitle: Enough about you, let's talk about me
+show_avatar: true
 ---
 
 My name is Hristo Yankov and I'm a software engineer from [Bulgaria](https://www.google.bg/maps/place/Bulgaria/@42.7074842,23.2398427,7z/data=!3m1!4b1!4m2!3m1!1s0x40a8fec1c85bf089:0xa01269bf4c10?hl=en). I love learning (especially programming languages), challenges and prototyping and decided to build this site to share my progress.
